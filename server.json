@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "test@mail.com",
+      "password": "secret"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 3,
+      "name": "Connor Russell",
+      "email": "connor.russell@mail.com",
+      "phone": "240-000-003"
+    },
+    {
+      "id": 4,
+      "name": "Theresa Kerr",
+      "email": "theresa.kerr@mail.com",
+      "phone": "240-000-004"
+    },
+    {
+      "id": 5,
+      "name": "Ian Sutherland",
+      "email": "ian.sutherland@mail.com",
+      "phone": "240-000-005"
+    }
+  ]
+}
